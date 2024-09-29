@@ -1,72 +1,46 @@
 [
-        {
-          "title": "Colors",
-          "questions": [
-            {
-              "question": "What is the capital of France?",
-              "options": ["London", "Paris", "Madrid", "Berlin"],
-              "answer": "Paris"
-            },
-            {
-              "question": "Who painted the Mona Lisa?",
-              "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
-              "answer": "Leonardo da Vinci"
-            },
-            {
-              "question": "Which planet is known as the Red Planet?",
-              "options": ["Mars", "Jupiter", "Mercury", "Saturn"],
-              "answer": "Mars"
-            },
-            {
-              "question": "What is the largest organ in the human body?",
-              "options": ["Liver", "Heart", "Lungs", "Skin"],
-              "answer": "Skin"
-            },
-            {
-              "question": "What is the chemical symbol for gold?",
-              "options": ["Ag", "Au", "Fe", "Hg"],
-              "answer": "Au"
-            },
-            {
-              "question": "Which country is home to the kangaroo?",
-              "options": ["Australia", "Brazil", "Canada", "India"],
-              "answer": "Australia"
-            },
-            {
-              "question": "Who wrote the play 'Romeo and Juliet'?",
-              "options": ["William Shakespeare", "Jane Austen", "Mark Twain", "Charles Dickens"],
-              "answer": "William Shakespeare"
-            },
-            {
-              "question": "Which instrument is known as the 'king of instruments'?",
-              "options": ["Guitar", "Piano", "Violin", "Drums"],
-              "answer": "Piano"
-            },
-            {
-              "question": "What is the tallest mountain in the world?",
-              "options": ["Mount Everest", "K2", "Makalu", "Kangchenjunga"],
-              "answer": "Mount Everest"
-            },
-            {
-              "question": "Who discovered penicillin?",
-              "options": ["Alexander Fleming", "Marie Curie", "Albert Einstein", "Isaac Newton"],
-              "answer": "Alexander Fleming"
-            }
-          ]
-        },
-        {
-        "title": "Animals",
-          "questions": [
-            {
-              "question": "What is the capital of France?",
-              "options": ["London", "Paris", "Madrid", "Berlin"],
-              "answer": "Paris"
-            },
-            {
-              "question": "Who painted the Mona Lisa?",
-              "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
-              "answer": "Leonardo da Vinci"
-            }
-            ]
-    }
+  {
+    "id": 1,
+    "name": "Animals",
+    "detail": [
+      { "id": 101, "detailName": "Mammals" },
+      { "id": 102, "detailName": "Birds" },
+      { "id": 103, "detailName": "Reptiles" },
+      { "id": 104, "detailName": "Fish" },
+      { "id": 105, "detailName": "Insects" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Colors",
+    "detail": [
+      { "id": 201, "detailName": "Red" },
+      { "id": 202, "detailName": "Blue" },
+      { "id": 203, "detailName": "Green" },
+      { "id": 204, "detailName": "Yellow" },
+      { "id": 205, "detailName": "Purple" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fruits",
+    "detail": [
+      { "id": 301, "detailName": "Apple" },
+      { "id": 302, "detailName": "Banana" },
+      { "id": 303, "detailName": "Orange" },
+      { "id": 304, "detailName": "Pear" },
+      { "id": 305, "detailName": "Grape" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vehicles",
+    "detail": [
+      { "id": 401, "detailName": "Car" },
+      { "id": 402, "detailName": "Bicycle" },
+      { "id": 403, "detailName": "Motorcycle" },
+      { "id": 404, "detailName": "Airplane" },
+      { "id": 405, "detailName": "Boat" }
+    ]
+  }
 ]
