@@ -2,6 +2,8 @@
   {
     "id": 1,
     "name": "Animals",
+    "imageURL": "https://example.com/topic1-image.jpg",
+    "audioURL": "https://example.com/topic1-audio.mp3",
     "detail": [
       { "id": 101, "detailName": "Mammals" },
       { "id": 102, "detailName": "Birds" },
@@ -13,6 +15,8 @@
   {
     "id": 2,
     "name": "Colors",
+    "imageURL": "https://example.com/topic2-image.jpg",
+    "audioURL": "https://example.com/topic2-audio.mp3",
     "detail": [
       { "id": 201, "detailName": "Red" },
       { "id": 202, "detailName": "Blue" },
@@ -24,6 +28,8 @@
   {
     "id": 3,
     "name": "Fruits",
+    "imageURL": "https://example.com/topic3-image.jpg",
+    "audioURL": "https://example.com/topic3-audio.mp3",
     "detail": [
       { "id": 301, "detailName": "Apple" },
       { "id": 302, "detailName": "Banana" },
@@ -35,6 +41,8 @@
   {
     "id": 4,
     "name": "Vehicles",
+    "imageURL": "https://example.com/topic4-image.jpg",
+    "audioURL": "https://example.com/topic4-audio.mp3",
     "detail": [
       { "id": 401, "detailName": "Car" },
       { "id": 402, "detailName": "Bicycle" },
