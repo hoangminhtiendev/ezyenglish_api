@@ -1,54 +1,46 @@
-{
-  "videos": [
-    {
-      "id": 1,
-      "name": "Fruit names in English Ep 1",
-      "videoId": "MAe8gU7IWI8"
-    },
-    {
-      "id": 2,
-      "name": "Fruit Names in English Ep 2",
-      "videoId": "Uepzi1Ill7A"
-    },
-    {
-      "id": 3,
-      "name": "Fruit Names in English Ep 3",
-      "videoId": "fDxHvR9MN-0"
-    },
-    {
-      "id": 4,
-      "name": "Fruit Names in English Ep 4",
-      "videoId": "rk6Dd9AuDmY"
-    },
-    {
-      "id": 5,
-      "name": "Color song",
-      "videoId": "7VjdrnsZSsU"
-    },
-    {
-      "id": 6,
-      "name": "School supplies song",
-      "videoId": "1oPbw33mgEM"
-    },
-    {
-      "id": 7,
-      "name": "Rooms in the house song",
-      "videoId": "isSNIL1pmx8"
-    },
-    {
-      "id": 8,
-      "name": "Types of shoes song",
-      "videoId": "uT03YAvv7zY"
-    },
-    {
-      "id": 9,
-      "name": "Types of shoes song Episode 2",
-      "videoId": "uPRcStPFJgA"
-    },
-    {
-      "id": 19,
-      "name": "Dog Breeds Song | Popular Dogs For Kids",
-      "videoId": "k49jAEyJTUI"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Animals",
+    "detail": [
+      { "id": 101, "detailName": "Mammals" },
+      { "id": 102, "detailName": "Birds" },
+      { "id": 103, "detailName": "Reptiles" },
+      { "id": 104, "detailName": "Fish" },
+      { "id": 105, "detailName": "Insects" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Colors",
+    "detail": [
+      { "id": 201, "detailName": "Red" },
+      { "id": 202, "detailName": "Blue" },
+      { "id": 203, "detailName": "Green" },
+      { "id": 204, "detailName": "Yellow" },
+      { "id": 205, "detailName": "Purple" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fruits",
+    "detail": [
+      { "id": 301, "detailName": "Apple" },
+      { "id": 302, "detailName": "Banana" },
+      { "id": 303, "detailName": "Orange" },
+      { "id": 304, "detailName": "Pear" },
+      { "id": 305, "detailName": "Grape" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vehicles",
+    "detail": [
+      { "id": 401, "detailName": "Car" },
+      { "id": 402, "detailName": "Bicycle" },
+      { "id": 403, "detailName": "Motorcycle" },
+      { "id": 404, "detailName": "Airplane" },
+      { "id": 405, "detailName": "Boat" }
+    ]
+  }
+]
