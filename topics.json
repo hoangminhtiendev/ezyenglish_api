@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Animals",
-    "imageURL": "https://example.com/topic1-image.jpg",
+    "imageURL": "https://drive.google.com/file/d/0B39fFROTACEgVzByY1RELU1KeXM/view?usp=drivesdk&resourcekey=0-6hFJqOfLhHOUmebowuRxIA",
     "audioURL": "https://example.com/topic1-audio.mp3",
     "detail": [
       { "id": 101, "detailName": "Mammals" },
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "name": "Colors",
-    "imageURL": "https://example.com/topic2-image.jpg",
+    "imageURL": "https://drive.google.com/file/d/0B39fFROTACEgVzByY1RELU1KeXM/view?usp=drivesdk&resourcekey=0-6hFJqOfLhHOUmebowuRxIA",
     "audioURL": "https://example.com/topic2-audio.mp3",
     "detail": [
       { "id": 201, "detailName": "Red" },
