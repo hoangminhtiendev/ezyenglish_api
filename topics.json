@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Animals",
-    "imageURL": "https://drive.google.com/file/d/0B39fFROTACEgVzByY1RELU1KeXM/view?usp=drivesdk&resourcekey=0-6hFJqOfLhHOUmebowuRxIA",
+    "imageURL": "https://picsum.photos/200",
     "audioURL": "https://example.com/topic1-audio.mp3",
     "detail": [
       { "id": 101, "detailName": "Mammals" },
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "name": "Colors",
-    "imageURL": "https://drive.google.com/file/d/0B39fFROTACEgVzByY1RELU1KeXM/view?usp=drivesdk&resourcekey=0-6hFJqOfLhHOUmebowuRxIA",
+    "imageURL": "https://picsum.photos/200",
     "audioURL": "https://example.com/topic2-audio.mp3",
     "detail": [
       { "id": 201, "detailName": "Red" },
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "name": "Fruits",
-    "imageURL": "https://example.com/topic3-image.jpg",
+    "imageURL": "https://picsum.photos/200g",
     "audioURL": "https://example.com/topic3-audio.mp3",
     "detail": [
       { "id": 301, "detailName": "Apple" },
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "name": "Vehicles",
-    "imageURL": "https://example.com/topic4-image.jpg",
+    "imageURL": "https://picsum.photos/200",
     "audioURL": "https://example.com/topic4-audio.mp3",
     "detail": [
       { "id": 401, "detailName": "Car" },
