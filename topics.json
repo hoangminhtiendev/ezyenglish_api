@@ -5,11 +5,36 @@
     "imageURL": "https://picsum.photos/200",
     "audioURL": "https://example.com/topic1-audio.mp3",
     "detail": [
-      { "id": 101, "detailName": "Mammals" },
-      { "id": 102, "detailName": "Birds" },
-      { "id": 103, "detailName": "Reptiles" },
-      { "id": 104, "detailName": "Fish" },
-      { "id": 105, "detailName": "Insects" }
+      {
+        "id": 101,
+        "detailName": "Mammals",
+        "detailImageUrl": "https://example.com/mammals-image.jpg",
+        "detailAudioUrl": "https://example.com/mammals-audio.mp3"
+      },
+      {
+        "id": 102,
+        "detailName": "Birds",
+        "detailImageUrl": "https://example.com/birds-image.jpg",
+        "detailAudioUrl": "https://example.com/birds-audio.mp3"
+      },
+      {
+        "id": 103,
+        "detailName": "Reptiles",
+        "detailImageUrl": "https://example.com/reptiles-image.jpg",
+        "detailAudioUrl": "https://example.com/reptiles-audio.mp3"
+      },
+      {
+        "id": 104,
+        "detailName": "Fish",
+        "detailImageUrl": "https://example.com/fish-image.jpg",
+        "detailAudioUrl": "https://example.com/fish-audio.mp3"
+      },
+      {
+        "id": 105,
+        "detailName": "Insects",
+        "detailImageUrl": "https://example.com/insects-image.jpg",
+        "detailAudioUrl": "https://example.com/insects-audio.mp3"
+      }
     ]
   },
   {
@@ -18,11 +43,36 @@
     "imageURL": "https://via.placeholder.com/600/771796",
     "audioURL": "https://example.com/topic2-audio.mp3",
     "detail": [
-      { "id": 201, "detailName": "Red" },
-      { "id": 202, "detailName": "Blue" },
-      { "id": 203, "detailName": "Green" },
-      { "id": 204, "detailName": "Yellow" },
-      { "id": 205, "detailName": "Purple" }
+      {
+        "id": 201,
+        "detailName": "Red",
+        "detailImageUrl": "https://example.com/red-image.jpg",
+        "detailAudioUrl": "https://example.com/red-audio.mp3"
+      },
+      {
+        "id": 202,
+        "detailName": "Blue",
+        "detailImageUrl": "https://example.com/blue-image.jpg",
+        "detailAudioUrl": "https://example.com/blue-audio.mp3"
+      },
+      {
+        "id": 203,
+        "detailName": "Green",
+        "detailImageUrl": "https://example.com/green-image.jpg",
+        "detailAudioUrl": "https://example.com/green-audio.mp3"
+      },
+      {
+        "id": 204,
+        "detailName": "Yellow",
+        "detailImageUrl": "https://example.com/yellow-image.jpg",
+        "detailAudioUrl": "https://example.com/yellow-audio.mp3"
+      },
+      {
+        "id": 205,
+        "detailName": "Purple",
+        "detailImageUrl": "https://example.com/purple-image.jpg",
+        "detailAudioUrl": "https://example.com/purple-audio.mp3"
+      }
     ]
   },
   {
@@ -31,193 +81,36 @@
     "imageURL": "https://via.placeholder.com/600/92c952",
     "audioURL": "https://example.com/topic3-audio.mp3",
     "detail": [
-      { "id": 301, "detailName": "Apple" },
-      { "id": 302, "detailName": "Banana" },
-      { "id": 303, "detailName": "Orange" },
-      { "id": 304, "detailName": "Pear" },
-      { "id": 305, "detailName": "Grape" }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Vehicles",
-    "imageURL": "https://via.placeholder.com/600/d32776",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Toys",
-    "imageURL": "https://via.placeholder.com/600/56a8c2",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Family",
-    "imageURL": "https://via.placeholder.com/600/56a8c2",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "School",
-    "imageURL": "https://via.placeholder.com/600/b0f7cc",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Trees",
-    "imageURL": "https://via.placeholder.com/600/54176f",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "A B C",
-    "imageURL": "https://via.placeholder.com/600/51aa97",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Books",
-    "imageURL": "https://via.placeholder.com/600/810b14",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Foods",
-    "imageURL": "https://via.placeholder.com/600/1ee8a4",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Languages",
-    "imageURL": "https://via.placeholder.com/600/810b14",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "Sea Animals",
-    "imageURL": "https://via.placeholder.com/600/1ee8a4",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Sports",
-    "imageURL": "https://via.placeholder.com/600/810b14",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Music",
-    "imageURL": "https://via.placeholder.com/600/1ee8a4",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Car" },
-      { "id": 402, "detailName": "Bicycle" },
-      { "id": 403, "detailName": "Motorcycle" },
-      { "id": 404, "detailName": "Airplane" },
-      { "id": 405, "detailName": "Boat" }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Arts",
-    "imageURL": "https://via.placeholder.com/600/1ee8a4",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Paint" },
-      { "id": 402, "detailName": "Guitar" },
-      { "id": 403, "detailName": "Piano" },
-      { "id": 404, "detailName": "Drum" },
-      { "id": 405, "detailName": "Saxophone" }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Wind of change",
-    "imageURL": "https://via.placeholder.com/600/810b14",
-    "audioURL": "https://example.com/topic4-audio.mp3",
-    "detail": [
-      { "id": 401, "detailName": "Paint" },
-      { "id": 402, "detailName": "Guitar" },
-      { "id": 403, "detailName": "Piano" },
-      { "id": 404, "detailName": "Drum" },
-      { "id": 405, "detailName": "Saxophone" }
+      {
+        "id": 301,
+        "detailName": "Apple",
+        "detailImageUrl": "https://example.com/apple-image.jpg",
+        "detailAudioUrl": "https://example.com/apple-audio.mp3"
+      },
+      {
+        "id": 302,
+        "detailName": "Banana",
+        "detailImageUrl": "https://example.com/banana-image.jpg",
+        "detailAudioUrl": "https://example.com/banana-audio.mp3"
+      },
+      {
+        "id": 303,
+        "detailName": "Orange",
+        "detailImageUrl": "https://example.com/orange-image.jpg",
+        "detailAudioUrl": "https://example.com/orange-audio.mp3"
+      },
+      {
+        "id": 304,
+        "detailName": "Pear",
+        "detailImageUrl": "https://example.com/pear-image.jpg",
+        "detailAudioUrl": "https://example.com/pear-audio.mp3"
+      },
+      {
+        "id": 305,
+        "detailName": "Grape",
+        "detailImageUrl": "https://example.com/grape-image.jpg",
+        "detailAudioUrl": "https://example.com/grape-audio.mp3"
+      }
     ]
   }
 ]
