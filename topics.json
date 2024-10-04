@@ -15,7 +15,7 @@
   {
     "id": 2,
     "name": "Colors",
-    "imageURL": "https://picsum.photos/200",
+    "imageURL": "https://via.placeholder.com/600/771796",
     "audioURL": "https://example.com/topic2-audio.mp3",
     "detail": [
       { "id": 201, "detailName": "Red" },
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "name": "Fruits",
-    "imageURL": "https://picsum.photos/200g",
+    "imageURL": "https://via.placeholder.com/600/92c952",
     "audioURL": "https://example.com/topic3-audio.mp3",
     "detail": [
       { "id": 301, "detailName": "Apple" },
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "name": "Vehicles",
-    "imageURL": "https://picsum.photos/200",
+    "imageURL": "https://via.placeholder.com/600/d32776",
     "audioURL": "https://example.com/topic4-audio.mp3",
     "detail": [
       { "id": 401, "detailName": "Car" },
