@@ -211,9 +211,7 @@
       {
         "question": "Which network architecture component stores subscriber information?",
         "options": ["MSC", "VLR", "HLR", "BTS"],
-        "answer": "
-
-HLR"
+        "answer": "HLR"
       },
       {
         "question": "What is a common challenge with handovers in cellular networks?",
