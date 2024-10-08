@@ -3,37 +3,37 @@
     "id": 1,
     "name": "Animals",
     "imageURL": "https://picsum.photos/200",
-    "audioURL": "https://example.com/topic1-audio.mp3",
+    "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
     "detail": [
       {
         "id": 101,
         "detailName": "Mammals",
         "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://example.com/mammals-audio.mp3"
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
       },
       {
         "id": 102,
         "detailName": "Birds",
         "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://example.com/birds-audio.mp3"
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
       },
       {
         "id": 103,
         "detailName": "Reptiles",
         "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://example.com/reptiles-audio.mp3"
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
       },
       {
         "id": 104,
         "detailName": "Fish",
         "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://example.com/fish-audio.mp3"
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
       },
       {
         "id": 105,
         "detailName": "Insects",
         "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://example.com/insects-audio.mp3"
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
       }
     ]
   },
