@@ -112,5 +112,43 @@
         "detailAudioUrl": "https://example.com/grape-audio.mp3"
       }
     ]
+  },
+  {
+    "id": 4,
+    "name": "Animals",
+    "imageURL": "https://picsum.photos/200",
+    "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+    "detail": [
+      {
+        "id": 401,
+        "detailName": "Mammals",
+        "detailImageUrl": "https://picsum.photos/200",
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
+      },
+      {
+        "id": 402,
+        "detailName": "Birds",
+        "detailImageUrl": "https://picsum.photos/200",
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
+      },
+      {
+        "id": 403,
+        "detailName": "Reptiles",
+        "detailImageUrl": "https://picsum.photos/200",
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
+      },
+      {
+        "id": 404,
+        "detailName": "Fish",
+        "detailImageUrl": "https://picsum.photos/200",
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+      },
+      {
+        "id": 405,
+        "detailName": "Insects",
+        "detailImageUrl": "https://picsum.photos/200",
+        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
+      }
+    ]
   }
 ]
