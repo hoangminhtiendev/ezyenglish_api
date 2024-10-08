@@ -1,25 +1,25 @@
 [
   {
     "id": 1,
-    "name": "Animals",
+    "name": "bus",
     "imageURL": "https://picsum.photos/200",
     "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
     "detail": [
       {
         "id": 101,
-        "detailName": "Mammals",
+        "detailName": "bus",
         "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
       },
       {
         "id": 102,
-        "detailName": "Birds",
+        "detailName": "car",
         "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
       },
       {
         "id": 103,
-        "detailName": "Reptiles",
+        "detailName": "train",
         "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
       },
@@ -31,7 +31,7 @@
       },
       {
         "id": 105,
-        "detailName": "Insects",
+        "detailName": "plane",
         "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
       }
