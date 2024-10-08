@@ -1,0 +1,325 @@
+
+[
+  {
+    "title": "Telecom Fundamentals",
+    "questions": [
+      {
+        "question": "What does LTE stand for?",
+        "options": ["Long Term Evolution", "Limited Telecommunication Evolution", "Latest Telecom Equipment", "Low Transmission Efficiency"],
+        "answer": "Long Term Evolution"
+      },
+      {
+        "question": "Which layer of the OSI model is responsible for routing?",
+        "options": ["Data Link", "Transport", "Network", "Application"],
+        "answer": "Network"
+      },
+      {
+        "question": "What frequency range does 5G use in the millimeter-wave spectrum?",
+        "options": ["1-2 GHz", "24-40 GHz", "60-90 GHz", "0.5-1 GHz"],
+        "answer": "24-40 GHz"
+      },
+      {
+        "question": "Which modulation technique is commonly used in LTE?",
+        "options": ["QAM", "QPSK", "FSK", "AM"],
+        "answer": "QAM"
+      },
+      {
+        "question": "Which protocol is used for transporting voice over IP (VoIP)?",
+        "options": ["SIP", "FTP", "HTTP", "SMTP"],
+        "answer": "SIP"
+      }
+    ]
+  },
+  {
+    "title": "Mobile Networks",
+    "questions": [
+      {
+        "question": "What is the primary function of a base station in a mobile network?",
+        "options": ["Routing data", "Transmitting signals to mobile devices", "Managing internet traffic", "Encrypting communications"],
+        "answer": "Transmitting signals to mobile devices"
+      },
+      {
+        "question": "What is the full form of GSM?",
+        "options": ["Global System for Mobile Communications", "Global Satellite Messaging", "General Signal Management", "Global Signal Management"],
+        "answer": "Global System for Mobile Communications"
+      },
+      {
+        "question": "Which generation of mobile technology introduced high-speed data transfer?",
+        "options": ["2G", "3G", "4G", "5G"],
+        "answer": "3G"
+      },
+      {
+        "question": "What technology does 4G primarily use for data transfer?",
+        "options": ["CDMA", "OFDMA", "TDMA", "FDMA"],
+        "answer": "OFDMA"
+      },
+      {
+        "question": "Which device is commonly used to extend cellular network coverage?",
+        "options": ["Repeater", "Router", "Modem", "Firewall"],
+        "answer": "Repeater"
+      },
+      {
+        "question": "What does IMS stand for in LTE?",
+        "options": ["IP Multimedia Subsystem", "International Mobile System", "Integrated Media Services", "Internet Messaging Service"],
+        "answer": "IP Multimedia Subsystem"
+      }
+    ]
+  },
+  {
+    "title": "Radio Frequency Basics",
+    "questions": [
+      {
+        "question": "What is the speed of light in a vacuum?",
+        "options": ["3x10^8 m/s", "2x10^8 m/s", "1.5x10^8 m/s", "4x10^8 m/s"],
+        "answer": "3x10^8 m/s"
+      },
+      {
+        "question": "What is the relationship between frequency and wavelength?",
+        "options": ["Directly proportional", "Inversely proportional", "No relationship", "Exponentially related"],
+        "answer": "Inversely proportional"
+      },
+      {
+        "question": "Which band is used for satellite communication?",
+        "options": ["L-band", "X-band", "Ku-band", "VHF"],
+        "answer": "Ku-band"
+      },
+      {
+        "question": "What unit is used to measure frequency?",
+        "options": ["Hertz", "Volts", "Watts", "Amperes"],
+        "answer": "Hertz"
+      },
+      {
+        "question": "Which type of wave is used in radio communication?",
+        "options": ["Longitudinal waves", "Transverse waves", "Electromagnetic waves", "Mechanical waves"],
+        "answer": "Electromagnetic waves"
+      },
+      {
+        "question": "What frequency range does the VHF band cover?",
+        "options": ["30 MHz to 300 MHz", "300 MHz to 3 GHz", "3 GHz to 30 GHz", "30 GHz to 300 GHz"],
+        "answer": "30 MHz to 300 MHz"
+      }
+    ]
+  },
+  {
+    "title": "Microwave Link Design",
+    "questions": [
+      {
+        "question": "What is the typical frequency range for microwave communication?",
+        "options": ["1-10 GHz", "10-100 MHz", "0.5-1 GHz", "30-300 GHz"],
+        "answer": "1-10 GHz"
+      },
+      {
+        "question": "What is the purpose of a parabolic antenna in a microwave link?",
+        "options": ["Amplification", "Signal modulation", "Focusing RF signals", "Transmitting optical signals"],
+        "answer": "Focusing RF signals"
+      },
+      {
+        "question": "Which phenomenon can impact microwave link performance?",
+        "options": ["Rain fade", "Doppler shift", "Ground wave", "Solar flare"],
+        "answer": "Rain fade"
+      },
+      {
+        "question": "What is Fresnel zone clearance?",
+        "options": ["The clear space around the line of sight path", "The total signal reflection", "The amount of signal loss", "The range of the signal"],
+        "answer": "The clear space around the line of sight path"
+      },
+      {
+        "question": "What unit is used to express signal strength in microwave communication?",
+        "options": ["dB", "mW", "V", "GHz"],
+        "answer": "dB"
+      },
+      {
+        "question": "What does LOS stand for in microwave communication?",
+        "options": ["Line of Sight", "Loss of Signal", "Low Output Strength", "Link Over Satellite"],
+        "answer": "Line of Sight"
+      }
+    ]
+  },
+  {
+    "title": "Network Protocols",
+    "questions": [
+      {
+        "question": "Which protocol is used to assign IP addresses dynamically?",
+        "options": ["DNS", "DHCP", "FTP", "HTTP"],
+        "answer": "DHCP"
+      },
+      {
+        "question": "What does HTTP stand for?",
+        "options": ["Hypertext Transfer Protocol", "High Transmission Protocol", "High Text Transfer Protocol", "Hyperlink Transfer Protocol"],
+        "answer": "Hypertext Transfer Protocol"
+      },
+      {
+        "question": "Which protocol is used for sending email?",
+        "options": ["SMTP", "POP3", "FTP", "HTTP"],
+        "answer": "SMTP"
+      },
+      {
+        "question": "Which layer of the OSI model does TCP operate on?",
+        "options": ["Transport Layer", "Data Link Layer", "Network Layer", "Session Layer"],
+        "answer": "Transport Layer"
+      },
+      {
+        "question": "What port does HTTPS use?",
+        "options": ["80", "443", "21", "25"],
+        "answer": "443"
+      }
+    ]
+  },
+  {
+    "title": "5G Technology",
+    "questions": [
+      {
+        "question": "What is the maximum theoretical speed of 5G?",
+        "options": ["10 Gbps", "100 Gbps", "1 Gbps", "50 Gbps"],
+        "answer": "10 Gbps"
+      },
+      {
+        "question": "Which technology is used to increase 5G bandwidth?",
+        "options": ["MIMO", "CDMA", "FDMA", "TDMA"],
+        "answer": "MIMO"
+      },
+      {
+        "question": "What frequency range does 5G operate in for low-band?",
+        "options": ["600 MHz to 1 GHz", "1-3 GHz", "24-40 GHz", "60-90 GHz"],
+        "answer": "600 MHz to 1 GHz"
+      },
+      {
+        "question": "Which service is NOT part of the 5G network slicing?",
+        "options": ["Enhanced Mobile Broadband", "Massive Machine-Type Communications", "Low-Latency Communications", "Legacy Voice Call Service"],
+        "answer": "Legacy Voice Call Service"
+      },
+      {
+        "question": "Which modulation scheme is used in 5G NR?",
+        "options": ["QPSK", "QAM", "16QAM", "OFDM"],
+        "answer": "OFDM"
+      }
+    ]
+  },
+  {
+    "title": "Cellular Networks",
+    "questions": [
+      {
+        "question": "What is the main function of a BTS (Base Transceiver Station)?",
+        "options": ["Managing calls", "Transmitting signals", "Data encryption", "Billing"],
+        "answer": "Transmitting signals"
+      },
+      {
+        "question": "What technology does GSM use for voice calls?",
+        "options": ["TDMA", "FDMA", "CDMA", "OFDMA"],
+        "answer": "TDMA"
+      },
+      {
+        "question": "Which network architecture component stores subscriber information?",
+        "options": ["MSC", "VLR", "HLR", "BTS"],
+        "answer": "
+
+HLR"
+      },
+      {
+        "question": "What is a common challenge with handovers in cellular networks?",
+        "options": ["Dropped calls", "Increased data rates", "Seamless connectivity", "Decreased coverage area"],
+        "answer": "Dropped calls"
+      },
+      {
+        "question": "Which technology is introduced in 4G to improve data rates?",
+        "options": ["Carrier Aggregation", "Network Slicing", "SDN", "BSS"],
+        "answer": "Carrier Aggregation"
+      }
+    ]
+  },
+  {
+    "title": "Network Security",
+    "questions": [
+      {
+        "question": "What does VPN stand for?",
+        "options": ["Virtual Private Network", "Virtual Public Network", "Verified Private Node", "Verified Public Network"],
+        "answer": "Virtual Private Network"
+      },
+      {
+        "question": "Which security protocol is used in secure web browsing?",
+        "options": ["SSL/TLS", "IPSec", "WEP", "SSH"],
+        "answer": "SSL/TLS"
+      },
+      {
+        "question": "What is a common method of protecting a Wi-Fi network?",
+        "options": ["Encryption", "Port forwarding", "Network Address Translation", "Modulation"],
+        "answer": "Encryption"
+      },
+      {
+        "question": "Which type of attack is characterized by overwhelming a network with traffic?",
+        "options": ["DDoS", "MITM", "Phishing", "Brute Force"],
+        "answer": "DDoS"
+      },
+      {
+        "question": "What does a firewall do?",
+        "options": ["Filters incoming and outgoing traffic", "Encrypts data", "Transfers data", "Modulates signals"],
+        "answer": "Filters incoming and outgoing traffic"
+      },
+      {
+        "question": "Which technology ensures data privacy in wireless networks?",
+        "options": ["WPA3", "DHCP", "FTP", "SMTP"],
+        "answer": "WPA3"
+      }
+    ]
+  },
+  {
+    "title": "IP Networking",
+    "questions": [
+      {
+        "question": "What does IP stand for?",
+        "options": ["Internet Protocol", "Internal Process", "Internet Path", "Interconnected Protocol"],
+        "answer": "Internet Protocol"
+      },
+      {
+        "question": "What is the range of a Class C IP address?",
+        "options": ["192.0.0.0 to 223.255.255.255", "128.0.0.0 to 191.255.255.255", "0.0.0.0 to 127.255.255.255", "224.0.0.0 to 239.255.255.255"],
+        "answer": "192.0.0.0 to 223.255.255.255"
+      },
+      {
+        "question": "Which protocol is used to map IP addresses to MAC addresses?",
+        "options": ["ARP", "DNS", "ICMP", "HTTP"],
+        "answer": "ARP"
+      },
+      {
+        "question": "Which IP protocol provides error reporting functionality?",
+        "options": ["ICMP", "TCP", "UDP", "FTP"],
+        "answer": "ICMP"
+      },
+      {
+        "question": "What is the default subnet mask for a Class B IP address?",
+        "options": ["255.255.0.0", "255.0.0.0", "255.255.255.0", "255.255.255.255"],
+        "answer": "255.255.0.0"
+      }
+    ]
+  },
+  {
+    "title": "Cloud Computing",
+    "questions": [
+      {
+        "question": "What is the main characteristic of cloud computing?",
+        "options": ["On-demand access", "Offline access", "Dedicated servers", "No scalability"],
+        "answer": "On-demand access"
+      },
+      {
+        "question": "Which cloud service model provides virtualized computing resources over the internet?",
+        "options": ["IaaS", "PaaS", "SaaS", "DaaS"],
+        "answer": "IaaS"
+      },
+      {
+        "question": "What is the benefit of using a hybrid cloud?",
+        "options": ["Combining public and private cloud advantages", "Exclusive use of public cloud", "Using multiple cloud providers", "Permanent offline access"],
+        "answer": "Combining public and private cloud advantages"
+      },
+      {
+        "question": "Which technology underpins cloud scalability?",
+        "options": ["Virtualization", "Caching", "Multithreading", "Redundancy"],
+        "answer": "Virtualization"
+      },
+      {
+        "question": "Which company pioneered cloud infrastructure services?",
+        "options": ["Amazon", "Google", "IBM", "Microsoft"],
+        "answer": "Amazon"
+      }
+    ]
+  }
+]
