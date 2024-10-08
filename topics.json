@@ -8,31 +8,31 @@
       {
         "id": 101,
         "detailName": "Mammals",
-        "detailImageUrl": "https://picsum.photos/20",
+        "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://example.com/mammals-audio.mp3"
       },
       {
         "id": 102,
         "detailName": "Birds",
-        "detailImageUrl": "https://via.placeholder.com/600/7375af",
+        "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://example.com/birds-audio.mp3"
       },
       {
         "id": 103,
         "detailName": "Reptiles",
-        "detailImageUrl": "https://via.placeholder.com/600/61918f",
+        "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://example.com/reptiles-audio.mp3"
       },
       {
         "id": 104,
         "detailName": "Fish",
-        "detailImageUrl": "https://via.placeholder.com/600/7ef62f",
+        "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://example.com/fish-audio.mp3"
       },
       {
         "id": 105,
         "detailName": "Insects",
-        "detailImageUrl": "https://via.placeholder.com/600/89afb1",
+        "detailImageUrl": "https://picsum.photos/200",
         "detailAudioUrl": "https://example.com/insects-audio.mp3"
       }
     ]
@@ -40,7 +40,7 @@
   {
     "id": 2,
     "name": "Colors",
-    "imageURL": "https://via.placeholder.com/600/771796",
+    "imageURL": "https://picsum.photos/200",
     "audioURL": "https://example.com/topic2-audio.mp3",
     "detail": [
       {
@@ -78,7 +78,7 @@
   {
     "id": 3,
     "name": "Fruits",
-    "imageURL": "https://via.placeholder.com/600/92c952",
+    "imageURL": "https://picsum.photos/200",
     "audioURL": "https://example.com/topic3-audio.mp3",
     "detail": [
       {
