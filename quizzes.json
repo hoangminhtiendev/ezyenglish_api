@@ -140,7 +140,7 @@
   },
   {
     "title": "Network Protocols",
-    "quizImageUrl": "https://example.com/images/network_protocols.png",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "Which protocol is used to assign IP addresses dynamically?",
@@ -233,7 +233,7 @@
   },
   {
     "title": "Network Security",
-    "quizImageUrl": "https://example.com/images/network_security.png",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "What does VPN stand for?",
