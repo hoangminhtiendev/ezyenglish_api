@@ -1,7 +1,7 @@
-
 [
   {
     "title": "Telecom Fundamentals",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "What does LTE stand for?",
@@ -32,6 +32,7 @@
   },
   {
     "title": "Mobile Networks",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "What is the primary function of a base station in a mobile network?",
@@ -67,6 +68,7 @@
   },
   {
     "title": "Radio Frequency Basics",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "What is the speed of light in a vacuum?",
@@ -102,6 +104,7 @@
   },
   {
     "title": "Microwave Link Design",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "What is the typical frequency range for microwave communication?",
@@ -137,6 +140,7 @@
   },
   {
     "title": "Network Protocols",
+    "quizImageUrl": "https://example.com/images/network_protocols.png",
     "questions": [
       {
         "question": "Which protocol is used to assign IP addresses dynamically?",
@@ -167,6 +171,7 @@
   },
   {
     "title": "5G Technology",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "What is the maximum theoretical speed of 5G?",
@@ -197,21 +202,22 @@
   },
   {
     "title": "Cellular Networks",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
-        "question": "What is the main function of a BTS (Base Transceiver Station)?",
-        "options": ["Managing calls", "Transmitting signals", "Data encryption", "Billing"],
-        "answer": "Transmitting signals"
+        "question": "What is the main function of a BTS in a cellular network?",
+        "options": ["Data processing", "Signal transmission", "Routing calls", "Connecting to the internet"],
+        "answer": "Signal transmission"
       },
       {
-        "question": "What technology does GSM use for voice calls?",
-        "options": ["TDMA", "FDMA", "CDMA", "OFDMA"],
-        "answer": "TDMA"
+        "question": "Which concept allows mobile devices to maintain connectivity while moving between cells?",
+        "options": ["Handover", "Roaming", "Network Slicing", "Load Balancing"],
+        "answer": "Handover"
       },
       {
-        "question": "Which network architecture component stores subscriber information?",
-        "options": ["MSC", "VLR", "HLR", "BTS"],
-        "answer": "HLR"
+        "question": "What does HLR stand for?",
+        "options": ["Home Location Register", "High Level Resource", "Host Load Resource", "Home Load Routing"],
+        "answer": "Home Location Register"
       },
       {
         "question": "What is a common challenge with handovers in cellular networks?",
@@ -227,6 +233,7 @@
   },
   {
     "title": "Network Security",
+    "quizImageUrl": "https://example.com/images/network_security.png",
     "questions": [
       {
         "question": "What does VPN stand for?",
@@ -262,6 +269,7 @@
   },
   {
     "title": "IP Networking",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "What does IP stand for?",
@@ -292,6 +300,7 @@
   },
   {
     "title": "Cloud Computing",
+    "quizImageUrl": "https://picsum.photos/200",
     "questions": [
       {
         "question": "What is the main characteristic of cloud computing?",
