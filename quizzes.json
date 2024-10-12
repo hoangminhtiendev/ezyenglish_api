@@ -5,31 +5,31 @@
     "questions": [
       {
         "question": "What does LTE stand for?",
-        "quizImageUrl": "https://picsum.photos/200",
+        "questionImageUrl": "https://picsum.photos/200",
         "options": ["Long Term Evolution", "Limited Telecommunication Evolution", "Latest Telecom Equipment", "Low Transmission Efficiency"],
         "answer": "Long Term Evolution"
       },
       {
         "question": "Which layer of the OSI model is responsible for routing?",
-        "quizImageUrl": "https://picsum.photos/200",
+        "questionImageUrl": "https://picsum.photos/200",
         "options": ["Data Link", "Transport", "Network", "Application"],
         "answer": "Network"
       },
       {
         "question": "What frequency range does 5G use in the millimeter-wave spectrum?",
-        "quizImageUrl": "https://picsum.photos/200",
+        "questionImageUrl": "https://picsum.photos/200",
         "options": ["1-2 GHz", "24-40 GHz", "60-90 GHz", "0.5-1 GHz"],
         "answer": "24-40 GHz"
       },
       {
         "question": "Which modulation technique is commonly used in LTE?",
-        "quizImageUrl": "https://picsum.photos/200",
+        "questionImageUrl": "https://picsum.photos/200",
         "options": ["QAM", "QPSK", "FSK", "AM"],
         "answer": "QAM"
       },
       {
         "question": "Which protocol is used for transporting voice over IP (VoIP)?",
-        "quizImageUrl": "https://picsum.photos/200",
+        "questionImageUrl": "https://picsum.photos/200",
         "options": ["SIP", "FTP", "HTTP", "SMTP"],
         "answer": "SIP"
       }
@@ -41,37 +41,37 @@
     "questions": [
       {
         "question": "What is the primary function of a base station in a mobile network?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Routing data", "Transmitting signals to mobile devices", "Managing internet traffic", "Encrypting communications"],
         "answer": "Transmitting signals to mobile devices"
       },
       {
         "question": "What is the full form of GSM?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Global System for Mobile Communications", "Global Satellite Messaging", "General Signal Management", "Global Signal Management"],
         "answer": "Global System for Mobile Communications"
       },
       {
         "question": "Which generation of mobile technology introduced high-speed data transfer?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["2G", "3G", "4G", "5G"],
         "answer": "3G"
       },
       {
         "question": "What technology does 4G primarily use for data transfer?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["CDMA", "OFDMA", "TDMA", "FDMA"],
         "answer": "OFDMA"
       },
       {
         "question": "Which device is commonly used to extend cellular network coverage?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Repeater", "Router", "Modem", "Firewall"],
         "answer": "Repeater"
       },
       {
         "question": "What does IMS stand for in LTE?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["IP Multimedia Subsystem", "International Mobile System", "Integrated Media Services", "Internet Messaging Service"],
         "answer": "IP Multimedia Subsystem"
       }
@@ -83,37 +83,37 @@
     "questions": [
       {
         "question": "What is the speed of light in a vacuum?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["3x10^8 m/s", "2x10^8 m/s", "1.5x10^8 m/s", "4x10^8 m/s"],
         "answer": "3x10^8 m/s"
       },
       {
         "question": "What is the relationship between frequency and wavelength?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Directly proportional", "Inversely proportional", "No relationship", "Exponentially related"],
         "answer": "Inversely proportional"
       },
       {
         "question": "Which band is used for satellite communication?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["L-band", "X-band", "Ku-band", "VHF"],
         "answer": "Ku-band"
       },
       {
         "question": "What unit is used to measure frequency?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Hertz", "Volts", "Watts", "Amperes"],
         "answer": "Hertz"
       },
       {
         "question": "Which type of wave is used in radio communication?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Longitudinal waves", "Transverse waves", "Electromagnetic waves", "Mechanical waves"],
         "answer": "Electromagnetic waves"
       },
       {
         "question": "What frequency range does the VHF band cover?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["30 MHz to 300 MHz", "300 MHz to 3 GHz", "3 GHz to 30 GHz", "30 GHz to 300 GHz"],
         "answer": "30 MHz to 300 MHz"
       }
@@ -125,37 +125,37 @@
     "questions": [
       {
         "question": "What is the typical frequency range for microwave communication?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["1-10 GHz", "10-100 MHz", "0.5-1 GHz", "30-300 GHz"],
         "answer": "1-10 GHz"
       },
       {
         "question": "What is the purpose of a parabolic antenna in a microwave link?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Amplification", "Signal modulation", "Focusing RF signals", "Transmitting optical signals"],
         "answer": "Focusing RF signals"
       },
       {
         "question": "Which phenomenon can impact microwave link performance?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Rain fade", "Doppler shift", "Ground wave", "Solar flare"],
         "answer": "Rain fade"
       },
       {
         "question": "What is Fresnel zone clearance?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["The clear space around the line of sight path", "The total signal reflection", "The amount of signal loss", "The range of the signal"],
         "answer": "The clear space around the line of sight path"
       },
       {
         "question": "What unit is used to express signal strength in microwave communication?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["dB", "mW", "V", "GHz"],
         "answer": "dB"
       },
       {
         "question": "What does LOS stand for in microwave communication?",
-         "quizImageUrl": "https://picsum.photos/200",
+         "questionImageUrl": "https://picsum.photos/200",
         "options": ["Line of Sight", "Loss of Signal", "Low Output Strength", "Link Over Satellite"],
         "answer": "Line of Sight"
       }
