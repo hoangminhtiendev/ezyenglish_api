@@ -6,47 +6,46 @@
       {
         "question": "What does LTE stand for?",
         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
         "options": ["Long Term Evolution", "Limited Telecommunication Evolution", "Latest Telecom Equipment", "Low Transmission Efficiency"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "Long Term Evolution"
       },
       {
         "question": "Which layer of the OSI model is responsible for routing?",
         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3",
         "options": ["Data Link", "Transport", "Network", "Application"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "Network"
       },
       {
         "question": "What frequency range does 5G use in the millimeter-wave spectrum?",
         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["1-2 GHz", "24-40 GHz", "60-90 GHz", "0.5-1 GHz"], 
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+        "options": ["1-2 GHz", "24-40 GHz", "60-90 GHz", "0.5-1 GHz"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "24-40 GHz"
       },
       {
         "question": "Which modulation technique is commonly used in LTE?",
         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
         "options": ["QAM", "QPSK", "FSK", "AM"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "QAM"
       },
       {
         "question": "Which protocol is used for transporting voice over IP (VoIP)?",
         "questionImageUrl": "https://picsum.photos/200",
-           "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
         "options": ["SIP", "FTP", "HTTP", "SMTP"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "SIP"
       }
     ]
@@ -57,177 +56,48 @@
     "questions": [
       {
         "question": "What is the primary function of a base station in a mobile network?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+        "questionImageUrl": "https://picsum.photos/200",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
         "options": ["Routing data", "Transmitting signals to mobile devices", "Managing internet traffic", "Encrypting communications"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "Transmitting signals to mobile devices"
       },
       {
         "question": "What is the full form of GSM?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+        "questionImageUrl": "https://picsum.photos/200",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
         "options": ["Global System for Mobile Communications", "Global Satellite Messaging", "General Signal Management", "Global Signal Management"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "Global System for Mobile Communications"
       },
       {
         "question": "Which generation of mobile technology introduced high-speed data transfer?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+        "questionImageUrl": "https://picsum.photos/200",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
         "options": ["2G", "3G", "4G", "5G"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "3G"
       },
       {
         "question": "What technology does 4G primarily use for data transfer?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+        "questionImageUrl": "https://picsum.photos/200",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
         "options": ["CDMA", "OFDMA", "TDMA", "FDMA"],
-       "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
+        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "answer": "OFDMA"
       },
       {
-        "question": "Which device is commonly used to extend cellular network coverage?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["Repeater", "Router", "Modem", "Firewall"],
+        "question": "Which network element in 5G enables massive machine-type communication (mMTC)?",
+        "questionImageUrl": "https://picsum.photos/200",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+        "options": ["Network Slicing", "Small Cells", "MIMO", "Beamforming"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "Repeater"
-      },
-      {
-        "question": "What does IMS stand for in LTE?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["IP Multimedia Subsystem", "International Mobile System", "Integrated Media Services", "Internet Messaging Service"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "IP Multimedia Subsystem"
-      }
-    ]
-  },
-  {
-    "title": "Radio Frequency Basics",
-    "quizImageUrl": "https://picsum.photos/200",
-    "questions": [
-      {
-        "question": "What is the speed of light in a vacuum?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["3x10^8 m/s", "2x10^8 m/s", "1.5x10^8 m/s", "4x10^8 m/s"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "3x10^8 m/s"
-      },
-      {
-        "question": "What is the relationship between frequency and wavelength?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["Directly proportional", "Inversely proportional", "No relationship", "Exponentially related"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "Inversely proportional"
-      },
-      {
-        "question": "Which band is used for satellite communication?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["L-band", "X-band", "Ku-band", "VHF"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "Ku-band"
-      },
-      {
-        "question": "What unit is used to measure frequency?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["Hertz", "Volts", "Watts", "Amperes"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "Hertz"
-      },
-      {
-        "question": "Which type of wave is used in radio communication?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["Longitudinal waves", "Transverse waves", "Electromagnetic waves", "Mechanical waves"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "Electromagnetic waves"
-      },
-      {
-        "question": "What frequency range does the VHF band cover?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["30 MHz to 300 MHz", "300 MHz to 3 GHz", "3 GHz to 30 GHz", "30 GHz to 300 GHz"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "30 MHz to 300 MHz"
-      }
-    ]
-  },
-  {
-    "title": "Microwave Link Design",
-    "quizImageUrl": "https://picsum.photos/200",
-    "questions": [
-      {
-        "question": "What is the typical frequency range for microwave communication?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["1-10 GHz", "10-100 MHz", "0.5-1 GHz", "30-300 GHz"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "1-10 GHz"
-      },
-      {
-        "question": "What is the purpose of a parabolic antenna in a microwave link?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["Amplification", "Signal modulation", "Focusing RF signals", "Transmitting optical signals"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "Focusing RF signals"
-      },
-      {
-        "question": "Which phenomenon can impact microwave link performance?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["Rain fade", "Doppler shift", "Ground wave", "Solar flare"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "Rain fade"
-      },
-      {
-        "question": "What is Fresnel zone clearance?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["The clear space around the line of sight path", "The total signal reflection", "The amount of signal loss", "The range of the signal"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "The clear space around the line of sight path"
-      },
-      {
-        "question": "What unit is used to express signal strength in microwave communication?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["dB", "mW", "V", "GHz"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "dB"
-      },
-      {
-        "question": "What does LOS stand for in microwave communication?",
-         "questionImageUrl": "https://picsum.photos/200",
-        "questionAudioUrl":"https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
-        "options": ["Line of Sight", "Loss of Signal", "Low Output Strength", "Link Over Satellite"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
-        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3","https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"]
-        "answer": "Line of Sight"
+        "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
+        "answer": "Network Slicing"
       }
     ]
   }
