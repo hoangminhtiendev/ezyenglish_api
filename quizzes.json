@@ -37,7 +37,7 @@
         "options": ["QAM", "QPSK", "FSK", "AM"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "QAM"
+        "correctAnswerIndex": 0
       },
       {
         "question": "Which protocol is used for transporting voice over IP (VoIP)?",
@@ -46,7 +46,7 @@
         "options": ["SIP", "FTP", "HTTP", "SMTP"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "correctAnswerIndex": "0"
+        "correctAnswerIndex": 0
       }
     ]
   },
@@ -70,7 +70,7 @@
         "options": ["Global System for Mobile Communications", "Global Satellite Messaging", "General Signal Management", "Global Signal Management"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "Global System for Mobile Communications"
+        "correctAnswerIndex": 0
       },
       {
         "question": "Which generation of mobile technology introduced high-speed data transfer?",
