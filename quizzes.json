@@ -10,7 +10,7 @@
         "options": ["Long Term Evolution", "Limited Telecommunication Evolution", "Latest Telecom Equipment", "Low Transmission Efficiency"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "Long Term Evolution"
+        "correctAnswerIndex": 0
       },
       {
         "question": "Which layer of the OSI model is responsible for routing?",
@@ -19,7 +19,7 @@
         "options": ["Data Link", "Transport", "Network", "Application"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "Network"
+        "correctAnswerIndex": 2
       },
       {
         "question": "What frequency range does 5G use in the millimeter-wave spectrum?",
@@ -28,7 +28,7 @@
         "options": ["1-2 GHz", "24-40 GHz", "60-90 GHz", "0.5-1 GHz"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "24-40 GHz"
+        "correctAnswerIndex": 1
       },
       {
         "question": "Which modulation technique is commonly used in LTE?",
@@ -46,7 +46,7 @@
         "options": ["SIP", "FTP", "HTTP", "SMTP"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "SIP"
+        "correctAnswerIndex": "0"
       }
     ]
   },
@@ -61,7 +61,7 @@
         "options": ["Routing data", "Transmitting signals to mobile devices", "Managing internet traffic", "Encrypting communications"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "Transmitting signals to mobile devices"
+        "correctAnswerIndex": 1
       },
       {
         "question": "What is the full form of GSM?",
@@ -79,7 +79,7 @@
         "options": ["2G", "3G", "4G", "5G"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "3G"
+        "correctAnswerIndex": 1
       },
       {
         "question": "What technology does 4G primarily use for data transfer?",
@@ -88,7 +88,7 @@
         "options": ["CDMA", "OFDMA", "TDMA", "FDMA"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "OFDMA"
+        "correctAnswerIndex": 1
       },
       {
         "question": "Which network element in 5G enables massive machine-type communication (mMTC)?",
@@ -97,7 +97,7 @@
         "options": ["Network Slicing", "Small Cells", "MIMO", "Beamforming"],
         "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
-        "answer": "Network Slicing"
+        "correctAnswerIndex": 0
       }
     ]
   }
