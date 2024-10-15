@@ -9,7 +9,7 @@
         "questionImageUrl": "https://picsum.photos/200",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
         "options": ["Long Term Evolution", "Limited Telecommunication Evolution", "Latest Telecom Equipment", "Low Transmission Efficiency"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
+        "optionImageUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/image1.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image3.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image4.png"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "correctAnswerIndex": 0
       },
@@ -19,7 +19,7 @@
         "questionImageUrl": "https://picsum.photos/200",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3",
         "options": ["Data Link", "Transport", "Network", "Application"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
+         "optionImageUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/image6.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image7.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image8.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image9.png"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "correctAnswerIndex": 2
       },
@@ -39,7 +39,7 @@
         "questionImageUrl": "https://picsum.photos/200",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
         "options": ["QAM", "QPSK", "FSK", "AM"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
+         "optionImageUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/image1.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image5.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image6.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image7.png"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "correctAnswerIndex": 0
       },
@@ -49,7 +49,7 @@
         "questionImageUrl": "https://picsum.photos/200",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
         "options": ["SIP", "FTP", "HTTP", "SMTP"],
-        "optionImageUrls": ["https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200", "https://picsum.photos/200"],
+    "optionImageUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/image1.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image9.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image3.png", "https://hoangminhtiendev.github.io/ezyenglish_api/image5.png"],
         "optionAudioUrls": ["https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3", "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"],
         "correctAnswerIndex": 0
       }
