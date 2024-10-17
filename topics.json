@@ -1,154 +1,156 @@
-[
-  {
-    "id": 1,
-    "name": "bus",
-    "imageURL": "https://picsum.photos/200",
-    "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
-    "detail": [
-      {
-        "id": 101,
-        "detailName": "bus",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
-      },
-      {
-        "id": 102,
-        "detailName": "car",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
-      },
-      {
-        "id": 103,
-        "detailName": "train",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
-      },
-      {
-        "id": 104,
-        "detailName": "Fish",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
-      },
-      {
-        "id": 105,
-        "detailName": "plane",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
-      }
+{
+    "topics": [
+        {
+            "id": 1,
+            "name": "New job",
+            "imageURL": "https://picsum.photos/200",
+            "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+            "detail": [
+                {
+                    "id": 101,
+                    "detailName": "bus",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
+                },
+                {
+                    "id": 102,
+                    "detailName": "car",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
+                },
+                {
+                    "id": 103,
+                    "detailName": "train",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
+                },
+                {
+                    "id": 104,
+                    "detailName": "Fish",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+                },
+                {
+                    "id": 105,
+                    "detailName": "plane",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Colors",
+            "imageURL": "https://picsum.photos/200",
+            "audioURL": "https://example.com/topic2-audio.mp3",
+            "detail": [
+                {
+                    "id": 201,
+                    "detailName": "Red",
+                    "detailImageUrl": "https://example.com/red-image.jpg",
+                    "detailAudioUrl": "https://example.com/red-audio.mp3"
+                },
+                {
+                    "id": 202,
+                    "detailName": "Blue",
+                    "detailImageUrl": "https://example.com/blue-image.jpg",
+                    "detailAudioUrl": "https://example.com/blue-audio.mp3"
+                },
+                {
+                    "id": 203,
+                    "detailName": "Green",
+                    "detailImageUrl": "https://example.com/green-image.jpg",
+                    "detailAudioUrl": "https://example.com/green-audio.mp3"
+                },
+                {
+                    "id": 204,
+                    "detailName": "Yellow",
+                    "detailImageUrl": "https://example.com/yellow-image.jpg",
+                    "detailAudioUrl": "https://example.com/yellow-audio.mp3"
+                },
+                {
+                    "id": 205,
+                    "detailName": "Purple",
+                    "detailImageUrl": "https://example.com/purple-image.jpg",
+                    "detailAudioUrl": "https://example.com/purple-audio.mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Fruits",
+            "imageURL": "https://picsum.photos/200",
+            "audioURL": "https://example.com/topic3-audio.mp3",
+            "detail": [
+                {
+                    "id": 301,
+                    "detailName": "Apple",
+                    "detailImageUrl": "https://example.com/apple-image.jpg",
+                    "detailAudioUrl": "https://example.com/apple-audio.mp3"
+                },
+                {
+                    "id": 302,
+                    "detailName": "Banana",
+                    "detailImageUrl": "https://example.com/banana-image.jpg",
+                    "detailAudioUrl": "https://example.com/banana-audio.mp3"
+                },
+                {
+                    "id": 303,
+                    "detailName": "Orange",
+                    "detailImageUrl": "https://example.com/orange-image.jpg",
+                    "detailAudioUrl": "https://example.com/orange-audio.mp3"
+                },
+                {
+                    "id": 304,
+                    "detailName": "Pear",
+                    "detailImageUrl": "https://example.com/pear-image.jpg",
+                    "detailAudioUrl": "https://example.com/pear-audio.mp3"
+                },
+                {
+                    "id": 305,
+                    "detailName": "Grape",
+                    "detailImageUrl": "https://example.com/grape-image.jpg",
+                    "detailAudioUrl": "https://example.com/grape-audio.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Animals",
+            "imageURL": "https://picsum.photos/200",
+            "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+            "detail": [
+                {
+                    "id": 401,
+                    "detailName": "Mammals",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
+                },
+                {
+                    "id": 402,
+                    "detailName": "Birds",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
+                },
+                {
+                    "id": 403,
+                    "detailName": "Reptiles",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
+                },
+                {
+                    "id": 404,
+                    "detailName": "Fish",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+                },
+                {
+                    "id": 405,
+                    "detailName": "Insects",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
+                }
+            ]
+        }
     ]
-  },
-  {
-    "id": 2,
-    "name": "Colors",
-    "imageURL": "https://picsum.photos/200",
-    "audioURL": "https://example.com/topic2-audio.mp3",
-    "detail": [
-      {
-        "id": 201,
-        "detailName": "Red",
-        "detailImageUrl": "https://example.com/red-image.jpg",
-        "detailAudioUrl": "https://example.com/red-audio.mp3"
-      },
-      {
-        "id": 202,
-        "detailName": "Blue",
-        "detailImageUrl": "https://example.com/blue-image.jpg",
-        "detailAudioUrl": "https://example.com/blue-audio.mp3"
-      },
-      {
-        "id": 203,
-        "detailName": "Green",
-        "detailImageUrl": "https://example.com/green-image.jpg",
-        "detailAudioUrl": "https://example.com/green-audio.mp3"
-      },
-      {
-        "id": 204,
-        "detailName": "Yellow",
-        "detailImageUrl": "https://example.com/yellow-image.jpg",
-        "detailAudioUrl": "https://example.com/yellow-audio.mp3"
-      },
-      {
-        "id": 205,
-        "detailName": "Purple",
-        "detailImageUrl": "https://example.com/purple-image.jpg",
-        "detailAudioUrl": "https://example.com/purple-audio.mp3"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Fruits",
-    "imageURL": "https://picsum.photos/200",
-    "audioURL": "https://example.com/topic3-audio.mp3",
-    "detail": [
-      {
-        "id": 301,
-        "detailName": "Apple",
-        "detailImageUrl": "https://example.com/apple-image.jpg",
-        "detailAudioUrl": "https://example.com/apple-audio.mp3"
-      },
-      {
-        "id": 302,
-        "detailName": "Banana",
-        "detailImageUrl": "https://example.com/banana-image.jpg",
-        "detailAudioUrl": "https://example.com/banana-audio.mp3"
-      },
-      {
-        "id": 303,
-        "detailName": "Orange",
-        "detailImageUrl": "https://example.com/orange-image.jpg",
-        "detailAudioUrl": "https://example.com/orange-audio.mp3"
-      },
-      {
-        "id": 304,
-        "detailName": "Pear",
-        "detailImageUrl": "https://example.com/pear-image.jpg",
-        "detailAudioUrl": "https://example.com/pear-audio.mp3"
-      },
-      {
-        "id": 305,
-        "detailName": "Grape",
-        "detailImageUrl": "https://example.com/grape-image.jpg",
-        "detailAudioUrl": "https://example.com/grape-audio.mp3"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Animals",
-    "imageURL": "https://picsum.photos/200",
-    "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
-    "detail": [
-      {
-        "id": 401,
-        "detailName": "Mammals",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
-      },
-      {
-        "id": 402,
-        "detailName": "Birds",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
-      },
-      {
-        "id": 403,
-        "detailName": "Reptiles",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
-      },
-      {
-        "id": 404,
-        "detailName": "Fish",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
-      },
-      {
-        "id": 405,
-        "detailName": "Insects",
-        "detailImageUrl": "https://picsum.photos/200",
-        "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
-      }
-    ]
-  }
-]
+}
