@@ -7,7 +7,7 @@
                     "id": "q1",
                     "question": "What does LTE stand for?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image1.png",
-                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/how.mp3",
                     "options": [
                         "bus",
                         "ship",
@@ -32,7 +32,7 @@
                     "id": "q2",
                     "question": "Which layer of the OSI model is responsible for routing?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png",
-                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3",
+                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/how.mp3",
                     "options": [
                         "train",
                         "car",
@@ -57,7 +57,7 @@
                     "id": "q3",
                     "question": "What frequency range does 5G use in the millimeter-wave spectrum?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image3.png",
-                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/how.mp3",
                     "options": [
                         "car",
                         "train",
