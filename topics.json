@@ -150,5 +150,80 @@
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
                 }
             ]
+        },{
+            "id": 5,
+            "name": "Candies",
+            "imageURL": "https://picsum.photos/200",
+            "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+            "detail": [
+                {
+                    "id": 501,
+                    "detailName": "Mammals",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
+                },
+                {
+                    "id": 502,
+                    "detailName": "Birds",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
+                },
+                {
+                    "id": 503,
+                    "detailName": "Reptiles",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
+                },
+                {
+                    "id": 504,
+                    "detailName": "Fish",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+                },
+                {
+                    "id": 505,
+                    "detailName": "Insects",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Fish",
+            "imageURL": "https://picsum.photos/200",
+            "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+            "detail": [
+                {
+                    "id": 601,
+                    "detailName": "Mammals",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3"
+                },
+                {
+                    "id": 602,
+                    "detailName": "Birds",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3"
+                },
+                {
+                    "id": 603,
+                    "detailName": "Reptiles",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
+                },
+                {
+                    "id": 604,
+                    "detailName": "Fish",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+                },
+                {
+                    "id": 605,
+                    "detailName": "Insects",
+                    "detailImageUrl": "https://picsum.photos/200",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/plane.mp3"
+                }
+            ]
         }
     ]
