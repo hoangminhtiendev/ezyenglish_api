@@ -2,7 +2,7 @@
         {
             "id": 1,
             "name": "New job",
-            "imageURL": "https://picsum.photos/200",
+            "imageURL": "https://hoangminhtiendev.github.io/ezyenglish_api/landscape_bg.png",
             "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
             "detail": [
                 {
