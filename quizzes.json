@@ -185,5 +185,112 @@
                     "correctAnswerIndex": 3
                 }
             ]
+        },
+           {
+            "title": "Android Developer",
+            "quizImageUrl": "https://picsum.photos/200",
+            "questions": [
+                {
+                    "id": "q21",
+                    "question": "What is Swift?",
+                    "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image1.png",
+                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                    "options": [
+                        "bus",
+                        "ship",
+                        "car",
+                        "train"
+                    ],
+                    "optionImageUrls": [
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image1.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image3.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image4.png"
+                    ],
+                    "optionAudioUrls": [
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+                    ],
+                    "correctAnswerIndex": 0
+                },
+                {
+                    "id": "q21",
+                    "question": "What is SwiftUI?",
+                    "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png",
+                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3",
+                    "options": [
+                        "train",
+                        "car",
+                        "bus",
+                        "ship"
+                    ],
+                    "optionImageUrls": [
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image5.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image6.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image7.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image8.png"
+                    ],
+                    "optionAudioUrls": [
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "id": "q31",
+                    "question": "What is Xcode?",
+                    "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image3.png",
+                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                    "options": [
+                        "car",
+                        "train",
+                        "ship",
+                        "bus"
+                    ],
+                    "optionImageUrls": [
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image1.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image7.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image8.png"
+                    ],
+                    "optionAudioUrls": [
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "id": "q41",
+                    "question": "How to launch an iOS app?",
+                    "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image5.png",
+                    "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3",
+                    "options": [
+                        "bus",
+                        "ship",
+                        "car",
+                        "train"
+                    ],
+                    "optionImageUrls": [
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image1.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image7.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/image8.png"
+                    ],
+                    "optionAudioUrls": [
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3"
+                    ],
+                    "correctAnswerIndex": 3
+                }
+            ]
         }
+        
     ]
