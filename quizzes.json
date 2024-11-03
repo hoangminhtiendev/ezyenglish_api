@@ -78,31 +78,6 @@
                 ],
                 "correctAnswerIndex": 2
             },
-            {
-                "id": "q104",
-                "question": "green",
-                "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image5.png",
-                "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/green.mp3",
-                "options": [
-                    "yellow",
-                    "green",
-                    "orange",
-                    "purple"
-                ],
-                "optionImageUrls": [
-                    "https://hoangminhtiendev.github.io/ezyenglish_api/yellow.png",
-                    "https://hoangminhtiendev.github.io/ezyenglish_api/green.png",
-                    "https://hoangminhtiendev.github.io/ezyenglish_api/orange.png",
-                    "https://hoangminhtiendev.github.io/ezyenglish_api/purple.png"
-                ],
-                "optionAudioUrls": [
-                    "https://hoangminhtiendev.github.io/ezyenglish_api/yellow.mp3",
-                    "https://hoangminhtiendev.github.io/ezyenglish_api/green.mp3",
-                    "https://hoangminhtiendev.github.io/ezyenglish_api/orange.mp3",
-                    "https://hoangminhtiendev.github.io/ezyenglish_api/purple.mp3"
-                ],
-                "correctAnswerIndex": 1
-            },
           
         ]
     }
