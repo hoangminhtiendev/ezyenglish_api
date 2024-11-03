@@ -15,16 +15,16 @@
                         "train"
                     ],
                     "optionImageUrls": [
-                        "https://hoangminhtiendev.github.io/ezyenglish_api/image1.png",
-                        "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png",
-                        "https://hoangminhtiendev.github.io/ezyenglish_api/image3.png",
-                        "https://hoangminhtiendev.github.io/ezyenglish_api/image4.png"
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/blue.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/red.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/yellow.png",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/blue.png"
                     ],
                     "optionAudioUrls": [
-                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
-                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
-                        "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
-                        "https://hoangminhtiendev.github.io/ezyenglish_api/ship.mp3"
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/blue.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/red.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/yellow.mp3",
+                        "https://hoangminhtiendev.github.io/ezyenglish_api/blue.mp3"
                     ],
                     "correctAnswerIndex": 0
                 },
