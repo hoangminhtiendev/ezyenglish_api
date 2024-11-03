@@ -85,7 +85,7 @@
             "quizImageUrl": "https://picsum.photos/200",
             "questions": [
                 {
-                    "id": "q1",
+                    "id": "q21",
                     "question": "What is Swift?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image1.png",
                     "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
@@ -110,7 +110,7 @@
                     "correctAnswerIndex": 0
                 },
                 {
-                    "id": "q2",
+                    "id": "q22",
                     "question": "What is SwiftUI?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png",
                     "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3",
@@ -135,7 +135,7 @@
                     "correctAnswerIndex": 1
                 },
                 {
-                    "id": "q3",
+                    "id": "q23",
                     "question": "What is Xcode?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image3.png",
                     "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
@@ -160,7 +160,7 @@
                     "correctAnswerIndex": 2
                 },
                 {
-                    "id": "q4",
+                    "id": "q24",
                     "question": "How to launch an iOS app?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image5.png",
                     "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3",
@@ -191,7 +191,7 @@
             "quizImageUrl": "https://picsum.photos/200",
             "questions": [
                 {
-                    "id": "q21",
+                    "id": "q31",
                     "question": "What is Swift?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image1.png",
                     "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
@@ -216,7 +216,7 @@
                     "correctAnswerIndex": 0
                 },
                 {
-                    "id": "q21",
+                    "id": "q32",
                     "question": "What is SwiftUI?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image2.png",
                     "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/car.mp3",
@@ -241,7 +241,7 @@
                     "correctAnswerIndex": 1
                 },
                 {
-                    "id": "q31",
+                    "id": "q33",
                     "question": "What is Xcode?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image3.png",
                     "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bus.mp3",
@@ -266,7 +266,7 @@
                     "correctAnswerIndex": 2
                 },
                 {
-                    "id": "q41",
+                    "id": "q34",
                     "question": "How to launch an iOS app?",
                     "questionImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/image5.png",
                     "questionAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/train.mp3",
