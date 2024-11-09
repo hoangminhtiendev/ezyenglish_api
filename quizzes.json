@@ -539,16 +539,94 @@
     {
         "title": "Pets",
         "quizImageUrl": "https://hoangminhtiendev.github.io/photos/pets/Pets.png",
-        "questions": []
+        "questions": [
+            {
+                "id": "q301",
+                "question": "rabbit",
+                "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/rabbit.png",
+                "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/rabbit.mp3",
+                "options": [
+                    "peacock",
+                    "pig",
+                    "rabbit",
+                    "sheep"
+                ],
+                "optionImageUrls": [
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/peacock.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/pig.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/rabbit.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/sheep.mp3"
+                ],
+                "optionAudioUrls": [
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/peacock.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/pig.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/rabbit.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/sheep.mp3"
+                ],
+                "correctAnswerIndex": 2
+            }
+        ]
     },
     {
         "title": "Wild Animals",
         "quizImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/WildAnimals.png",
-        "questions": []
+        "questions": [
+            {
+                "id": "q401",
+                "question": "sheep",
+                "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/sheep.png",
+                "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/sheep.mp3",
+                "options": [
+                    "horse",
+                    "peacock",
+                    "sheep",
+                    "duck"
+                ],
+                "optionImageUrls": [
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/horse.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/peacock.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/sheep.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/duck.mp3"
+                ],
+                "optionAudioUrls": [
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/horse.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/peacock.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/sheep.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/duck.mp3"
+                ],
+                "correctAnswerIndex": 2
+            }
+        ]
     },
     {
         "title": "Sea Animals",
         "quizImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/SeaAnimals.png",
-        "questions": []
+        "questions": [
+            {
+                "id": "q501",
+                "question": "turkey",
+                "questionImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/turkey.png",
+                "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/turkey.mp3",
+                "options": [
+                    "chicken",
+                    "turkey",
+                    "horse",
+                    "peacock"
+                ],
+                "optionImageUrls": [
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/chicken.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/turkey.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/horse.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/peacock.mp3"
+                ],
+                "optionAudioUrls": [
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/chicken.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/turkey.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/horse.mp3",
+                    "https://hoangminhtiendev.github.io/audios/farmanimals/peacock.mp3"
+                ],
+                "correctAnswerIndex": 1
+            }
+        ]
     }
 ]
