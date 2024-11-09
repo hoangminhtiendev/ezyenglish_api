@@ -1,4 +1,5 @@
-[
+{
+    "topics": [
         {
             "id": 1,
             "name": "Colors",
@@ -8,67 +9,67 @@
                 {
                     "id": 1001,
                     "detailName": "red",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/red.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/red.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/red.mp3"
                 },
                 {
                     "id": 1002,
                     "detailName": "blue",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/blue.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/blue.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/blue.mp3"
                 },
                 {
                     "id": 1003,
                     "detailName": "yellow",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/yellow.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/yellow.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/yellow.mp3"
                 },
                 {
                     "id": 1004,
                     "detailName": "green",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/green.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/green.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/green.mp3"
                 },
                 {
                     "id": 1005,
                     "detailName": "orange",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/orange.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/orange.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/orange.mp3"
                 },
                 {
                     "id": 1006,
                     "detailName": "purple",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/purple.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/purple.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/purple.mp3"
                 },
                 {
                     "id": 1007,
                     "detailName": "pink",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/pink.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/pink.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/pink.mp3"
                 },
                 {
                     "id": 1008,
                     "detailName": "brown",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/brown.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/brown.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/brown.mp3"
                 },
                 {
                     "id": 1009,
                     "detailName": "black",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/black.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/black.mp3"
                 },
                 {
                     "id": 1010,
                     "detailName": "white",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/white.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/white.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/white.mp3"
                 },
                 {
                     "id": 1011,
                     "detailName": "grey",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/grey.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/grey.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/grey.mp3"
                 }
             ]
@@ -76,13 +77,13 @@
         {
             "id": 2,
             "name": "Farm Animals",
-            "imageURL": "https://hoangminhtiendev.github.io/ezyenglish_api/chicken.png",
+            "imageURL": "https://hoangminhtiendev.github.io/photos/farmanimals/FarmAnimals.png",
             "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/chicken.mp3",
             "detail": [
                 {
                     "id": 2001,
                     "detailName": "buffalo",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/buffalo.png",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/buffalo.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/buffalo.mp3"
                 },
                 {
@@ -150,7 +151,7 @@
         {
             "id": 3,
             "name": "Pets",
-            "imageURL": "https://hoangminhtiendev.github.io/ezyenglish_api/cat.png",
+            "imageURL": "https://hoangminhtiendev.github.io/photos/pets/Pets.png",
             "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/cat.mp3",
             "detail": [
                 {
@@ -194,7 +195,7 @@
         {
             "id": 4,
             "name": "Wild Animals",
-            "imageURL": "https://hoangminhtiendev.github.io/ezyenglish_api/giraffe.png",
+            "imageURL": "https://hoangminhtiendev.github.io/photos/wildanimals/WildAnimals.png",
             "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/giraffe.mp3",
             "detail": [
                 {
@@ -328,7 +329,7 @@
         {
             "id": 5,
             "name": "Sea Animals",
-            "imageURL": "https://hoangminhtiendev.github.io/ezyenglish_api/Sea Animals.png",
+            "imageURL": "https://hoangminhtiendev.github.io/photos/seaanimals/SeaAnimals.png",
             "audioURL": "https://hoangminhtiendev.github.io/ezyenglish_api/Sea Animals.mp3",
             "detail": [
                 {
@@ -436,3 +437,4 @@
             ]
         }
     ]
+}
