@@ -1,4 +1,4 @@
- [
+[
         {
             "id": 1,
             "name": "Colors",
@@ -9,67 +9,67 @@
                     "id": 1001,
                     "detailName": "red",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/red.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/red.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/red.mp3"
                 },
                 {
                     "id": 1002,
                     "detailName": "blue",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/blue.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/blue.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/blue.mp3"
                 },
                 {
                     "id": 1003,
                     "detailName": "yellow",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/yellow.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/yellow.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/yellow.mp3"
                 },
                 {
                     "id": 1004,
                     "detailName": "green",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/green.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/green.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/green.mp3"
                 },
                 {
                     "id": 1005,
                     "detailName": "orange",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/orange.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/orange.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/orange.mp3"
                 },
                 {
                     "id": 1006,
                     "detailName": "purple",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/purple.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/purple.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/purple.mp3"
                 },
                 {
                     "id": 1007,
                     "detailName": "pink",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/pink.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/pink.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/pink.mp3"
                 },
                 {
                     "id": 1008,
                     "detailName": "brown",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/brown.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/brown.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/brown.mp3"
                 },
                 {
                     "id": 1009,
                     "detailName": "black",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/black.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/black.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/black.mp3"
                 },
                 {
                     "id": 1010,
                     "detailName": "white",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/white.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/white.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/white.mp3"
                 },
                 {
                     "id": 1011,
                     "detailName": "grey",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/colors/grey.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/grey.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/grey.mp3"
                 }
             ]
         },
@@ -83,67 +83,67 @@
                     "id": 2001,
                     "detailName": "buffalo",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/buffalo.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/buffalo.mp3"
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/buffalo.mp3"
                 },
                 {
                     "id": 2002,
                     "detailName": "chicken",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/chicken.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/chicken.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/chicken.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/chicken.mp3"
                 },
                 {
                     "id": 2003,
                     "detailName": "cow",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/cow.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/cow.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/cow.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/cow.mp3"
                 },
                 {
                     "id": 2004,
                     "detailName": "donkey",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/donkey.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/donkey.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/donkey.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/donkey.mp3"
                 },
                 {
                     "id": 2005,
                     "detailName": "duck",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/duck.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/duck.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/duck.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/duck.mp3"
                 },
                 {
                     "id": 2006,
                     "detailName": "goat",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/goat.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/goat.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/goat.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/goat.mp3"
                 },
                 {
                     "id": 2007,
                     "detailName": "horse",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/horse.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/horse.mp3"
-                },
-                {
-                    "id": 2008,
-                    "detailName": "pig",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/pig.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/pig.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/horse.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/horse.mp3"
                 },
                 {
                     "id": 2009,
-                    "detailName": "rabbit",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/rabbit.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/rabbit.mp3"
+                    "detailName": "pig",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/pig.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/pig.mp3"
                 },
                 {
                     "id": 2010,
-                    "detailName": "sheep",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/sheep.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/sheep.mp3"
+                    "detailName": "rabbit",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/rabbit.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/rabbit.mp3"
                 },
                 {
                     "id": 2011,
+                    "detailName": "sheep",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/sheep.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/sheep.mp3"
+                },
+                {
+                    "id": 2012,
                     "detailName": "turkey",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/turkey.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/turkey.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/turkey.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/turkey.mp3"
                 }
             ]
         },
@@ -156,38 +156,38 @@
                 {
                     "id": 3001,
                     "detailName": "bird",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bird.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bird.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/pets/bird.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/pets/bird.mp3"
                 },
                 {
                     "id": 3002,
                     "detailName": "cat",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/cat.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/cat.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/pets/cat.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/pets/cat.mp3"
                 },
                 {
                     "id": 3003,
                     "detailName": "dog",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/dog.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/dog.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/pets/dog.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/pets/dog.mp3"
                 },
                 {
                     "id": 3004,
                     "detailName": "goldfish",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/goldfish.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/goldfish.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/pets/goldfish.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/pets/goldfish.mp3"
                 },
                 {
                     "id": 3005,
                     "detailName": "hamster",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/hamster.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/hamster.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/pets/hamster.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/pets/hamster.mp3"
                 },
                 {
                     "id": 3006,
                     "detailName": "turtle",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/turtle.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/turtle.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/pets/turtle.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/pets/turtle.mp3"
                 }
             ]
         },
@@ -200,128 +200,128 @@
                 {
                     "id": 4001,
                     "detailName": "antelope",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/antelope.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/antelope.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/antelope.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/antelope.mp3"
                 },
                 {
                     "id": 4002,
                     "detailName": "bear",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bear.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bear.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/bear.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/bear.mp3"
                 },
                 {
                     "id": 4003,
                     "detailName": "bison",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bison.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/bison.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/bison.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/bison.mp3"
                 },
                 {
                     "id": 4004,
                     "detailName": "camel",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/camel.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/camel.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/camel.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/camel.mp3"
                 },
                 {
                     "id": 4005,
                     "detailName": "crocodile",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/crocodile.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/crocodile.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/crocodile.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/crocodile.mp3"
                 },
                 {
                     "id": 4006,
                     "detailName": "deer",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/deer.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/deer.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/deer.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/deer.mp3"
                 },
                 {
                     "id": 4007,
                     "detailName": "elephant",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/elephant.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/elephant.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/elephant.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/elephant.mp3"
                 },
                 {
                     "id": 4008,
                     "detailName": "fox",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/fox.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/fox.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/fox.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/fox.mp3"
                 },
                 {
                     "id": 4009,
                     "detailName": "giraffe",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/giraffe.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/giraffe.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/giraffe.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/giraffe.mp3"
                 },
                 {
                     "id": 4010,
                     "detailName": "gorilla",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/gorilla.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/gorilla.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/gorilla.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/gorilla.mp3"
                 },
                 {
                     "id": 4011,
                     "detailName": "hippo",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/hippo.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/hippo.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/hippo.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/hippo.mp3"
                 },
                 {
                     "id": 4012,
                     "detailName": "kangaroo",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/kangaroo.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/kangaroo.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/kangaroo.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/kangaroo.mp3"
                 },
                 {
                     "id": 4013,
                     "detailName": "lion",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/lion.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/lion.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/lion.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/lion.mp3"
                 },
                 {
                     "id": 4014,
                     "detailName": "monkey ",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/monkey .png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/monkey .mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/monkey .png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/monkey .mp3"
                 },
                 {
                     "id": 4015,
                     "detailName": "ostrich",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ostrich.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/ostrich.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/ostrich.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/ostrich.mp3"
                 },
                 {
                     "id": 4016,
                     "detailName": "panda",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/panda.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/panda.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/panda.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/panda.mp3"
                 },
                 {
                     "id": 4017,
                     "detailName": "rhino",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/rhino.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/rhino.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/rhino.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/rhino.mp3"
                 },
                 {
                     "id": 4018,
                     "detailName": "sloth",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/sloth.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/sloth.mp3"
-                },
-                {
-                    "id": 4019,
-                    "detailName": "tiger",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/tiger.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/tiger.mp3"
-                },
-                {
-                    "id": 4020,
-                    "detailName": "wolf",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/wolf.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/wolf.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/sloth.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/sloth.mp3"
                 },
                 {
                     "id": 4021,
+                    "detailName": "tiger",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/tiger.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/tiger.mp3"
+                },
+                {
+                    "id": 4022,
+                    "detailName": "wolf",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/wolf.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/wolf.mp3"
+                },
+                {
+                    "id": 4023,
                     "detailName": "zebra",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/zebra.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/zebra.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/zebra.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/zebra.mp3"
                 }
             ]
         },
@@ -334,106 +334,105 @@
                 {
                     "id": 5001,
                     "detailName": "crab",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/crab.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/crab.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/crab.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/crab.mp3"
                 },
                 {
                     "id": 5002,
                     "detailName": "dolphin",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/dolphin.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/dolphin.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/dolphin.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/dolphin.mp3"
                 },
                 {
                     "id": 5003,
                     "detailName": "eel",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/eel.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/eel.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/eel.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/eel.mp3"
                 },
                 {
                     "id": 5004,
                     "detailName": "fish",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/fish.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/fish.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/fish.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/fish.mp3"
                 },
                 {
                     "id": 5005,
                     "detailName": "jellyfish",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/jellyfish.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/jellyfish.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/jellyfish.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/jellyfish.mp3"
                 },
                 {
                     "id": 5006,
                     "detailName": "lobster",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/lobster.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/lobster.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/lobster.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/lobster.mp3"
                 },
                 {
                     "id": 5007,
                     "detailName": "octopus",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/octopus.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/octopus.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/octopus.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/octopus.mp3"
                 },
                 {
                     "id": 5008,
                     "detailName": "otter",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/otter.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/otter.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/otter.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/otter.mp3"
                 },
                 {
                     "id": 5009,
                     "detailName": "sea turtle",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/sea turtle.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/sea turtle.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/sea turtle.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/sea turtle.mp3"
                 },
                 {
                     "id": 5010,
                     "detailName": "seahorse",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/seahorse.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/seahorse.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/seahorse.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/seahorse.mp3"
                 },
                 {
                     "id": 5011,
                     "detailName": "seal",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/seal.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/seal.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/seal.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/seal.mp3"
                 },
                 {
                     "id": 5012,
                     "detailName": "shark",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/shark.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/shark.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/shark.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/shark.mp3"
                 },
                 {
                     "id": 5013,
                     "detailName": "squid",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/squid.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/squid.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/squid.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/squid.mp3"
                 },
                 {
                     "id": 5014,
                     "detailName": "starfish",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/starfish.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/starfish.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/starfish.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/starfish.mp3"
                 },
                 {
                     "id": 5015,
                     "detailName": "stingray",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/stingray.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/stingray.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/stingray.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/stingray.mp3"
                 },
                 {
                     "id": 5016,
                     "detailName": "whale",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/whale.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/whale.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/whale.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/whale.mp3"
                 },
                 {
                     "id": 5017,
                     "detailName": "sea urchin",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/sea urchin.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/ezyenglish_api/sea urchin.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/sea urchin.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/sea urchin.mp3"
                 }
             ]
         }
     ]
-
