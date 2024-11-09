@@ -2,6 +2,7 @@
     {
         "id": 1000000,
         "playListName": "Animal Songs for Kids",
+        "playListImageUrl": "https://hoangminhtiendev.github.io/photos/colors/Colors.png",
         "playListVideos": [
             {
                 "id": "hfmNuKP_SpE",
@@ -20,6 +21,7 @@
     {
         "id": 2000000,
         "playListName": "Christmas Songs for Kids",
+        "playListImageUrl": "https://hoangminhtiendev.github.io/photos/pets/Pets.png",
         "playListVideos": [
             {
                 "id": "uhd7XxcjGf8",
@@ -34,6 +36,7 @@
     {
         "id": 3000000,
         "playListName": "Halloween Songs",
+        "playListImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/WildAnimals.png",
         "playListVideos": [
             {
                 "id": "Q4zp7Dc1HJQ",
