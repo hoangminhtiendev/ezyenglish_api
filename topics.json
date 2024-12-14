@@ -277,7 +277,7 @@
                 },
                 {
                     "id": 4014,
-                    "detailName": "monkey ",
+                    "detailName": "monkey",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/monkey.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/monkey.mp3"
                 },
@@ -304,6 +304,18 @@
                     "detailName": "sloth",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/sloth.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/sloth.mp3"
+                },
+                {
+                    "id": 4019,
+                    "detailName": "snake",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/snake.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/snake.mp3"
+                },
+                {
+                    "id": 4020,
+                    "detailName": "squirrel",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/wildanimals/squirrel.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/wildanimals/squirrel.mp3"
                 },
                 {
                     "id": 4021,
@@ -382,8 +394,8 @@
                 {
                     "id": 5009,
                     "detailName": "sea turtle",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/sea turtle.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/sea turtle.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/seaturtle.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/seaturtle.mp3"
                 },
                 {
                     "id": 5010,
@@ -405,33 +417,39 @@
                 },
                 {
                     "id": 5013,
+                    "detailName": "shrimp",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/shrimp.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/shrimp.mp3"
+                },
+                {
+                    "id": 5014,
                     "detailName": "squid",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/squid.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/squid.mp3"
                 },
                 {
-                    "id": 5014,
+                    "id": 5015,
                     "detailName": "starfish",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/starfish.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/starfish.mp3"
                 },
                 {
-                    "id": 5015,
+                    "id": 5016,
                     "detailName": "stingray",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/stingray.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/stingray.mp3"
                 },
                 {
-                    "id": 5016,
+                    "id": 5017,
                     "detailName": "whale",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/whale.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/whale.mp3"
                 },
                 {
-                    "id": 5017,
+                    "id": 5018,
                     "detailName": "sea urchin",
-                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/sea urchin.png",
-                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/sea urchin.mp3"
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/seaurchin.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/seaurchin.mp3"
                 }
             ]
         }
