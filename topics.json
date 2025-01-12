@@ -122,6 +122,12 @@
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/horse.mp3"
                 },
                 {
+                    "id": 2008,
+                    "detailName": "peacock",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/peacock.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/peacock.mp3"
+                },
+                {
                     "id": 2009,
                     "detailName": "pig",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/pig.png",
@@ -450,6 +456,218 @@
                     "detailName": "sea urchin",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/seaanimals/seaurchin.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/seaanimals/seaurchin.mp3"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Fruits",
+            "imageURL": "https://hoangminhtiendev.github.io/photos/fruits/Fruits.png",
+            "audioURL": "https://hoangminhtiendev.github.io/audios/fruits/plum.mp3",
+            "detail": [
+                {
+                    "id": 6001,
+                    "detailName": "apple",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/apple.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/apple.mp3"
+                },
+                {
+                    "id": 6002,
+                    "detailName": "apricot",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/apricot.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/apricot.mp3"
+                },
+                {
+                    "id": 6003,
+                    "detailName": "avocado",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/avocado.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/avocado.mp3"
+                },
+                {
+                    "id": 6004,
+                    "detailName": "banana",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/banana.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/banana.mp3"
+                },
+                {
+                    "id": 6005,
+                    "detailName": "blackberry",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/blackberry.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/blackberry.mp3"
+                },
+                {
+                    "id": 6006,
+                    "detailName": "blueberry",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/blueberry.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/blueberry.mp3"
+                },
+                {
+                    "id": 6007,
+                    "detailName": "cherry",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/cherry.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/cherry.mp3"
+                },
+                {
+                    "id": 6008,
+                    "detailName": "coconut",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/coconut.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/coconut.mp3"
+                },
+                {
+                    "id": 6009,
+                    "detailName": "clementine",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/clementine.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/clementine.mp3"
+                },
+                {
+                    "id": 6010,
+                    "detailName": "custard apple",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/custardapple.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/custardapple.mp3"
+                },
+                {
+                    "id": 6011,
+                    "detailName": "dragonfruit",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/dragonfruit.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/dragonfruit.mp3"
+                },
+                {
+                    "id": 6012,
+                    "detailName": "durian",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/durian.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/durian.mp3"
+                },
+                {
+                    "id": 6013,
+                    "detailName": "grapes",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/grapes.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/grapes.mp3"
+                },
+                {
+                    "id": 6014,
+                    "detailName": "grapefruit",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/grapefruit.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/grapefruit.mp3"
+                },
+                {
+                    "id": 6015,
+                    "detailName": "guava",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/guava.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/guava.mp3"
+                },
+                {
+                    "id": 6016,
+                    "detailName": "jackfruit",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/jackfruit.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/jackfruit.mp3"
+                },
+                {
+                    "id": 6017,
+                    "detailName": "kiwi",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/kiwi.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/kiwi.mp3"
+                },
+                {
+                    "id": 6018,
+                    "detailName": "lemon",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/lemon.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/lemon.mp3"
+                },
+                {
+                    "id": 6019,
+                    "detailName": "lime",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/lime.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/lime.mp3"
+                },
+                {
+                    "id": 6020,
+                    "detailName": "lychee",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/lychee.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/lychee.mp3"
+                },
+                {
+                    "id": 6021,
+                    "detailName": "mango",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/mango.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/mango.mp3"
+                },
+                {
+                    "id": 6022,
+                    "detailName": "mangosteen",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/mangosteen.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/mangosteen.mp3"
+                },
+                {
+                    "id": 6023,
+                    "detailName": "orange",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/orange.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/orange.mp3"
+                },
+                {
+                    "id": 6024,
+                    "detailName": "papaya",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/papaya.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/papaya.mp3"
+                },
+                {
+                    "id": 6025,
+                    "detailName": "passionfruit",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/passionfruit.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/passionfruit.mp3"
+                },
+                {
+                    "id": 6026,
+                    "detailName": "peach",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/peach.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/peach.mp3"
+                },
+                {
+                    "id": 6027,
+                    "detailName": "pear",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/pear.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/pear.mp3"
+                },
+                {
+                    "id": 6028,
+                    "detailName": "persimmon",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/persimmon.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/persimmon.mp3"
+                },
+                {
+                    "id": 6029,
+                    "detailName": "pineapple",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/pineapple.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/pineapple.mp3"
+                },
+                {
+                    "id": 6030,
+                    "detailName": "plum",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/plum.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/plum.mp3"
+                },
+                {
+                    "id": 6031,
+                    "detailName": "pomegranate",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/pomegranate.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/pomegranate.mp3"
+                },
+                {
+                    "id": 6032,
+                    "detailName": "strawberry",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/strawberry.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/strawberry.mp3"
+                },
+                {
+                    "id": 6033,
+                    "detailName": "starfruit",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/starfruit.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/starfruit.mp3"
+                },
+                {
+                    "id": 6034,
+                    "detailName": "watermelon",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/watermelon.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/watermelon.mp3"
                 }
             ]
         }
