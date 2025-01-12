@@ -659,7 +659,7 @@
     {
         "id": 200000,
         "gameTitle": "Farm Animals",
-        "gameImage": "https://hoangminhtiendev.github.io/photos/farmanimals/farmanimals.png",
+        "gameImage": "https://hoangminhtiendev.github.io/photos/farmanimals/FarmAnimals.png",
         "scenes": [
             {
                 "id": 200001,
@@ -1973,7 +1973,7 @@
     {
         "id": 400000,
         "gameTitle": "Wild Animals",
-        "gameImage": "https://hoangminhtiendev.github.io/photos/pets/Pets.png",
+        "gameImage": "https://hoangminhtiendev.github.io/photos/pets/WildAnimals.png",
         "scenes": [
             {
                 "id": 400001,
@@ -2630,7 +2630,7 @@
     {
         "id": 500000,
         "gameTitle": "Sea Animals",
-        "gameImage": "https://hoangminhtiendev.github.io/photos/farmanimals/FarmAnimals.png",
+        "gameImage": "https://hoangminhtiendev.github.io/photos/pets/SeaAnimals.png",
         "scenes": [
             {
                 "id": 500001,
