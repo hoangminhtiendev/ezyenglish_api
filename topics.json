@@ -122,6 +122,12 @@
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/horse.mp3"
                 },
                 {
+                    "id": 2008,
+                    "detailName": "peacock",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/peacock.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/farmanimals/peacock.mp3"
+                },
+                {
                     "id": 2009,
                     "detailName": "pig",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/farmanimals/pig.png",
@@ -453,7 +459,7 @@
                 }
             ]
         },
-{
+        {
             "id": 6,
             "name": "Fruits",
             "imageURL": "https://hoangminhtiendev.github.io/photos/fruits/Fruits.png",
@@ -662,6 +668,92 @@
                     "detailName": "watermelon",
                     "detailImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/watermelon.png",
                     "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/watermelon.mp3"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "School Subjects",
+            "imageURL": "https://hoangminhtiendev.github.io/photos/schoolsubjects/SchoolSubjects.png",
+            "audioURL": "https://hoangminhtiendev.github.io/audios/fruits/.mp3",
+            "detail": [
+                {
+                    "id": 7001,
+                    "detailName": "art",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/art.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/art.mp3"
+                },
+                {
+                    "id": 7002,
+                    "detailName": "biology",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/biology.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/biology.mp3"
+                },
+                {
+                    "id": 7003,
+                    "detailName": "chemistry",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/chemistry.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/chemistry.mp3"
+                },
+                {
+                    "id": 7004,
+                    "detailName": "history",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/history.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/history.mp3"
+                },
+                {
+                    "id": 7005,
+                    "detailName": "literature",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/literature.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/literature.mp3"
+                },
+                {
+                    "id": 7006,
+                    "detailName": "mathematics",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/mathematics.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/mathematics.mp3"
+                },
+                {
+                    "id": 7007,
+                    "detailName": "music",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/music.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/music.mp3"
+                },
+                {
+                    "id": 7008,
+                    "detailName": "physical education",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/physicaleducation.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/physicaleducation.mp3"
+                },
+                {
+                    "id": 7009,
+                    "detailName": "physics",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/physics.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/physics.mp3"
+                },
+                {
+                    "id": 7010,
+                    "detailName": "geography",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/geography.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/geography.mp3"
+                },
+                {
+                    "id": 7011,
+                    "detailName": "foreign languages",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/foreignlanguages.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/foreignlanguages.mp3"
+                },
+                {
+                    "id": 7012,
+                    "detailName": "science",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/science.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/science.mp3"
+                },
+                {
+                    "id": 7013,
+                    "detailName": "information technology",
+                    "detailImageUrl": "https://hoangminhtiendev.github.io/photos/schoolsubjects/informationtechnology.png",
+                    "detailAudioUrl": "https://hoangminhtiendev.github.io/audios/schoolsubjects/informationtechnology.mp3"
                 }
             ]
         }
