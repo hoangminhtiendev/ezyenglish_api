@@ -3191,13 +3191,13 @@
                 "options": [
                     "apricot",
                     "guava",
-                    "orange",
+                    "Orange",
                     "pear"
                 ],
                 "optionImageUrls": [
                     "https://hoangminhtiendev.github.io/photos/fruits/apricot.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/guava.png",
-                    "https://hoangminhtiendev.github.io/photos/colors/orange.png",
+                    "https://hoangminhtiendev.github.io/photos/fruits/orange.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/pear.png"
                 ],
                 "optionAudioUrls": [
@@ -3491,19 +3491,19 @@
                 "options": [
                     "pear",
                     "grapefruit",
-                    "orange",
+                    "Orange",
                     "coconut"
                 ],
                 "optionImageUrls": [
                     "https://hoangminhtiendev.github.io/photos/fruits/pear.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/grapefruit.png",
-                    "https://hoangminhtiendev.github.io/photos/colors/orange.png",
+                    "https://hoangminhtiendev.github.io/photos/fruits/orange.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/coconut.png"
                 ],
                 "optionAudioUrls": [
                     "https://hoangminhtiendev.github.io/audios/fruits/pear.mp3",
                     "https://hoangminhtiendev.github.io/audios/fruits/grapefruit.mp3",
-                    "https://hoangminhtiendev.github.io/audios/colors/orange.mp3",
+                    "https://hoangminhtiendev.github.io/audios/fruits/orange.mp3",
                     "https://hoangminhtiendev.github.io/audios/fruits/coconut.mp3"
                 ],
                 "correctAnswerIndex": 1
@@ -3710,24 +3710,24 @@
             },
             {
                 "id": "q623",
-                "question": "orange",
-                "questionImageUrl": "https://hoangminhtiendev.github.io/photos/colors/orange.png",
-                "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/colors/orange.mp3",
+                "question": "Orange",
+                "questionImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/orange.png",
+                "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/orange.mp3",
                 "options": [
                     "mango",
-                    "orange",
+                    "Orange",
                     "pomegranate",
                     "papaya"
                 ],
                 "optionImageUrls": [
                     "https://hoangminhtiendev.github.io/photos/fruits/mango.png",
-                    "https://hoangminhtiendev.github.io/photos/colors/orange.png",
+                    "https://hoangminhtiendev.github.io/photos/fruits/orange.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/pomegranate.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/papaya.png"
                 ],
                 "optionAudioUrls": [
                     "https://hoangminhtiendev.github.io/audios/fruits/mango.mp3",
-                    "https://hoangminhtiendev.github.io/audios/colors/orange.mp3",
+                    "https://hoangminhtiendev.github.io/audios/fruits/orange.mp3",
                     "https://hoangminhtiendev.github.io/audios/fruits/pomegranate.mp3",
                     "https://hoangminhtiendev.github.io/audios/fruits/papaya.mp3"
                 ],
@@ -3864,19 +3864,19 @@
                 "questionImageUrl": "https://hoangminhtiendev.github.io/photos/fruits/pineapple.png",
                 "questionAudioUrl": "https://hoangminhtiendev.github.io/audios/fruits/pineapple.mp3",
                 "options": [
-                    "orange",
+                    "Orange",
                     "clementine",
                     "guava",
                     "pineapple"
                 ],
                 "optionImageUrls": [
-                    "https://hoangminhtiendev.github.io/photos/colors/orange.png",
+                    "https://hoangminhtiendev.github.io/photos/fruits/orange.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/clementine.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/guava.png",
                     "https://hoangminhtiendev.github.io/photos/fruits/pineapple.png"
                 ],
                 "optionAudioUrls": [
-                    "https://hoangminhtiendev.github.io/audios/colors/orange.mp3",
+                    "https://hoangminhtiendev.github.io/audios/fruits/orange.mp3",
                     "https://hoangminhtiendev.github.io/audios/fruits/clementine.mp3",
                     "https://hoangminhtiendev.github.io/audios/fruits/guava.mp3",
                     "https://hoangminhtiendev.github.io/audios/fruits/pineapple.mp3"
