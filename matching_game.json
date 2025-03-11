@@ -1973,7 +1973,7 @@
     {
         "id": 400000,
         "gameTitle": "Wild Animals",
-        "gameImage": "https://hoangminhtiendev.github.io/photos/pets/WildAnimals.png",
+        "gameImage": "https://hoangminhtiendev.github.io/photos/wildanimals/WildAnimals.png",
         "scenes": [
             {
                 "id": 400001,
@@ -2630,7 +2630,7 @@
     {
         "id": 500000,
         "gameTitle": "Sea Animals",
-        "gameImage": "https://hoangminhtiendev.github.io/photos/pets/SeaAnimals.png",
+        "gameImage": "https://hoangminhtiendev.github.io/photos/seaanimals/SeaAnimals.png",
         "scenes": [
             {
                 "id": 500001,
